@@ -1,4 +1,4 @@
-<img width="1375" alt="Screenshot 2023-09-07 at 5 17 13 PM" src="https://github.com/enn-y/Databases-Interfaces-Present-/assets/114934029/e85406dc-a3e5-4afc-a205-8b182ae90f2a">**Databases & Interfaces Module**
+**Databases & Interfaces Module**
 ---
 - Car Rental Website using HTML, CSS, JS, PHP, and SQL
 
